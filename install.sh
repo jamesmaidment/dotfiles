@@ -10,6 +10,8 @@ RUN=(
     'npm'
     'macos'
     'vscode'
+    'configs'
+    'bash'
 )
 
 for i in ${RUN[@]}; do
