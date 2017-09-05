@@ -3,5 +3,5 @@
 cd ~
 
 # Setup dirs
-mkdir -p bin pkg src .ssh
+mkdir -p src .ssh
 chmod 0700 ~/.ssh
