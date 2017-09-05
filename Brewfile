@@ -13,6 +13,7 @@ brew "wget"
 
 cask "backblaze"
 cask "cyberduck"
+cask "disk-inventory-x"
 cask "dropbox"
 cask "google-drive"
 cask "iterm2"
