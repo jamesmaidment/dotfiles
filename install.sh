@@ -12,6 +12,7 @@ RUN=(
     'vscode'
     'configs'
     'bash'
+    'gcloud'
 )
 
 for i in ${RUN[@]}; do
