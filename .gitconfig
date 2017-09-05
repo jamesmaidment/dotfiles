@@ -1,0 +1,5 @@
+[user]
+    email = james@oden.io
+    name = James Maidment
+[branch]
+    autosetuprebase = always

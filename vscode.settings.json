@@ -1,0 +1,12 @@
+{
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+    "workbench.colorTheme": "Base16 Eighties Dark",
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.fontFamily": "'SFMono-Regular', Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontSize": 13,
+    "editor.renderWhitespace": "boundary",
+    "editor.minimap.enabled": true,
+    "editor.formatOnSave": true,
+    "window.zoomLevel": 0,
+    "window.reopenFolders": "none"
+}
