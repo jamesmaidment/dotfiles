@@ -14,7 +14,6 @@ brew "terraform"
 brew "wget"
 
 cask "1password"
-cask "backblaze"
 cask "bettertouchtool"
 cask "cyberduck"
 cask "disk-inventory-x"
