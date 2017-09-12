@@ -1,6 +1,5 @@
 {
     "workbench.editor.enablePreviewFromQuickOpen": false,
-    "workbench.colorTheme": "Base16 Eighties Dark",
     "workbench.startupEditor": "newUntitledFile",
     "editor.fontFamily": "'SFMono-Regular', Menlo, Monaco, 'Courier New', monospace",
     "editor.fontSize": 13,
@@ -8,5 +7,7 @@
     "editor.minimap.enabled": true,
     "editor.formatOnSave": true,
     "window.zoomLevel": 0,
-    "window.reopenFolders": "none"
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.formatOnPaste": true,
+    "workbench.colorTheme": "Base16 Dark Eighties"
 }
