@@ -11,6 +11,7 @@ brew "htop"
 brew "nmap"
 brew "node"
 brew "terraform"
+brew "watch"
 brew "wget"
 
 cask "1password"
