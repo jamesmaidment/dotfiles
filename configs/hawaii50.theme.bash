@@ -53,7 +53,7 @@ DIRECTORY_COLOR="${green}"
 VE_COLOR="${cyan}"
 RVM_COLOR="${cyan}"
 
-REF_COLOR="${cyan}"
+REF_COLOR="${yellow}"
 
 # SCM prompts
 SCM_THEME_PROMPT_DIRTY=" ${bold_red}✗${normal}"
