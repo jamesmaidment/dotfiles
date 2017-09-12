@@ -8,12 +8,12 @@ RUN=(
     'xcode'
     'homebrew'
     'npm'
+    'vagrant'
     'macos'
     'vscode'
     'configs'
     'bash'
     'gcloud'
-    'vagrant'
 )
 
 for i in ${RUN[@]}; do
