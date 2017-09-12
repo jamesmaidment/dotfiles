@@ -13,6 +13,7 @@ RUN=(
     'configs'
     'bash'
     'gcloud'
+    'vagrant'
 )
 
 for i in ${RUN[@]}; do
