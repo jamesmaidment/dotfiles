@@ -22,4 +22,6 @@ source ~/google-cloud-sdk/completion.bash.inc
 source ~/google-cloud-sdk/path.bash.inc
 
 gcloud auth login
+gcloud auth application-default login
+
 gcloud components install kubectl --quiet
