@@ -529,8 +529,16 @@
 	</dict>
 	<key>Default Bookmark Guid</key>
 	<string>D2B279F9-8EF9-484C-9293-A3E6877E3E09</string>
-	<key>DimOnlyText</key>
+	<key>DimBackgroundWindows</key>
 	<false/>
+	<key>DimOnlyText</key>
+	<true/>
+	<key>DisableFullscreenTransparency</key>
+	<false/>
+	<key>HideScrollbar</key>
+	<false/>
+	<key>HideTab</key>
+	<true/>
 	<key>LoadPrefsFromCustomFolder</key>
 	<true/>
 	<key>MaxVertically</key>
@@ -584,7 +592,7 @@
 	<key>NSWindow Frame iTerm Window 0</key>
 	<string>173 292 890 987 0 0 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
-	<string>455 147 730 667 0 0 1440 877 </string>
+	<string>1280 414 890 987 0 0 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 2</key>
 	<string>197 207 730 667 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 3</key>
@@ -863,7 +871,7 @@
 			<key>Custom Command</key>
 			<string>No</string>
 			<key>Custom Directory</key>
-			<string>No</string>
+			<string>Recycle</string>
 			<key>Default Bookmark</key>
 			<string>No</string>
 			<key>Description</key>
@@ -1274,6 +1282,10 @@
 	<true/>
 	<key>NoSyncInstallationId</key>
 	<string>A3BB78EB-2207-487D-A74E-29B0CE3FC665</string>
+	<key>NoSyncNeverRemindPrefsChangesLostForFile</key>
+	<true/>
+	<key>NoSyncNeverRemindPrefsChangesLostForFile_selection</key>
+	<integer>0</integer>
 	<key>NoSyncPermissionToShowTip</key>
 	<false/>
 	<key>NoSyncTimeOfFirstLaunchOfVersionWithTip</key>
@@ -1327,10 +1339,18 @@
 	<date>2017-09-12T01:25:13Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
+	<key>ShowBookmarkName</key>
+	<false/>
 	<key>SmartPlacement</key>
 	<false/>
 	<key>SplitPaneDimmingAmount</key>
 	<real>0.18867938701923076</real>
+	<key>TabStyle</key>
+	<integer>0</integer>
+	<key>TabViewType</key>
+	<integer>0</integer>
+	<key>UseBorder</key>
+	<false/>
 	<key>WordCharacters</key>
 	<string>/-+\~_.</string>
 	<key>findIgnoreCase_iTerm</key>
