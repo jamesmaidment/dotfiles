@@ -9,5 +9,6 @@
     "window.zoomLevel": 0,
     "editor.multiCursorModifier": "ctrlCmd",
     "editor.formatOnPaste": true,
-    "workbench.colorTheme": "Base16 Dark Eighties"
+    "workbench.colorTheme": "Base16 Dark Eighties",
+    "terraform.formatOnSave": true
 }
