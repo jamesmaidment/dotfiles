@@ -12,12 +12,6 @@ chmod 775 "$script_file"
 echo "Running install script from: $script_file"
 "$script_file" "--disable-prompts"
 
-cat <<EOT >> ~/.bash_profile
-# gcloud
-source ~/google-cloud-sdk/completion.bash.inc
-source ~/google-cloud-sdk/path.bash.inc
-EOT
-
 source ~/google-cloud-sdk/completion.bash.inc
 source ~/google-cloud-sdk/path.bash.inc
 
