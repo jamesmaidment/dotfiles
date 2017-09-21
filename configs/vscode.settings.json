@@ -10,5 +10,6 @@
     "editor.multiCursorModifier": "ctrlCmd",
     "editor.formatOnPaste": true,
     "workbench.colorTheme": "Base16 Dark Eighties",
+    "workbench.sideBar.location": "left",
     "terraform.formatOnSave": true
 }
