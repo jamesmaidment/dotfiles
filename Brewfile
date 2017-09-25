@@ -1,6 +1,7 @@
 cask_args appdir: "/Applications"
 
 tap "caskroom/cask"
+tap "caskroom/drivers"
 
 brew "ansible"
 brew "bash-completion"
@@ -23,6 +24,7 @@ cask "dropbox"
 cask "etcher" 
 cask "google-backup-and-sync"
 cask "google-chrome"
+cask "hp-easy-start"
 cask "istat-menus"
 cask "iterm2"
 cask "postman"
