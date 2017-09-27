@@ -14,6 +14,7 @@ brew "node"
 brew "terraform"
 brew "watch"
 brew "wget"
+brew "youtube-dl"
 
 cask "1password"
 cask "bettertouchtool"
