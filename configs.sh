@@ -1,5 +1,7 @@
 #!/bin/bash
 
+DIR=$PWD
+
 # Setup dirs
 mkdir -p ~/src ~/.ssh
 
@@ -7,3 +9,6 @@ mkdir -p ~/src ~/.ssh
 chmod 0700 ~/.ssh
 cp configs/ssh ~/.ssh/config
 chmod 0600 ~/.ssh/*
+
+# Setup symlinks
+ln -s $DIR/configs/gitconfig ~/.gitconfig

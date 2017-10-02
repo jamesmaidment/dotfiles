@@ -1,5 +1,9 @@
 [user]
     email = james@oden.io
     name = James Maidment
+[alias]
+    l = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+[push]
+    default = simple
 [branch]
     autosetuprebase = always
