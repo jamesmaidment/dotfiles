@@ -1,15 +1,16 @@
 {
-    "workbench.editor.enablePreviewFromQuickOpen": false,
-    "workbench.startupEditor": "newUntitledFile",
     "editor.fontFamily": "'SFMono-Regular', Menlo, Monaco, 'Courier New', monospace",
     "editor.fontSize": 13,
-    "editor.renderWhitespace": "boundary",
-    "editor.minimap.enabled": true,
-    "editor.formatOnSave": true,
-    "window.zoomLevel": 0,
-    "editor.multiCursorModifier": "ctrlCmd",
     "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.minimap.enabled": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.renderWhitespace": "boundary",
+    "python.formatting.provider": "autopep8",
+    "terraform.formatOnSave": true,
+    "window.zoomLevel": 0,
     "workbench.colorTheme": "Base16 Dark Eighties",
+    "workbench.editor.enablePreviewFromQuickOpen": false,
     "workbench.sideBar.location": "left",
-    "terraform.formatOnSave": true
+    "workbench.startupEditor": "newUntitledFile"
 }
