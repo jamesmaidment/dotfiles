@@ -1,3 +1,8 @@
 #!/bin/bash
 
-npm install -g yarn
+PACKAGES="\
+    yarn \
+    redis-cli \
+"
+
+npm install -g $PACKAGES
