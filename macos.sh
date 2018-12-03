@@ -12,3 +12,6 @@ killall -HUP Dock
 
 # Enable Filevault
 sudo fdesetup enable
+
+# Re-enable subpixel antialiasing in Mojave 
+defaults write -g CGFontRenderingFontSmoothingDisabled -bool FALSE
